@@ -1,0 +1,11 @@
+Twilio Source Code for Class *Client*
+https://github.com/twilio/twilio-python/blob/master/twilio/rest/__init__.py
+
+Explanation of from and import statements
+https://www.tutorialspoint.com/python/python_modules.htm
+
+twilio sign up page
+https://www.twilio.com/try-twilio
+
+twilio python set up doc
+https://www.twilio.com/docs/sms/send-messages
